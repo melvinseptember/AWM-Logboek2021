@@ -1,0 +1,35 @@
+Logboek
+Week 1 - 19/02/2021
+	1h30m - Firebase lab gemaakt en afgewerkt
+Week 2 - 26/02/2021
+	1m - aanwezigheid form ingevult
+	10m - logboek en github voor logboek aangemaakt
+	5m - Invullen spreadsheet
+	7h30m Routes Framework fixen en github in orde brengen (niet gefixt)
+Week 3 - 5/3/2021
+	20m - Wekelijkste meeting
+	3h22m - Firebase OAuth
+Week 4 -12/3/2021
+	1h - Merge conflicten oplossen
+	40m - Wekelijkse meeting
+	4h25m Navigatie verder uitwerken / Settings sidebar schetsen / Settings Layout maken.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
