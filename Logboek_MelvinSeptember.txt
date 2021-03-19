@@ -5,6 +5,7 @@ Week 2 - 26/02/2021
 	1m - aanwezigheid form ingevult
 	10m - logboek en github voor logboek aangemaakt
 	5m - Invullen spreadsheet
+	20m - Developer account aanmaken
 	7h30m Routes Framework fixen en github in orde brengen (niet gefixt)
 Week 3 - 5/3/2021
 	20m - Wekelijkste meeting
@@ -12,8 +13,11 @@ Week 3 - 5/3/2021
 Week 4 -12/3/2021
 	1h - Merge conflicten oplossen
 	40m - Wekelijkse meeting
-	4h25m Navigatie verder uitwerken / Settings sidebar schetsen / Settings Layout maken.
-
+	4h25m Navigatie verder uitwerken / Settings sidebar schetsen / 	      Settings Layout maken.
+Week 5 - 19/3/2021  (Hackathon Week)
+	48m - Css fixing
+	1h - Pages -> Templates
+	
 
 
 
