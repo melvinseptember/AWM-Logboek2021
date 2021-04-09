@@ -13,10 +13,28 @@ Week 3 - 5/3/2021
 Week 4 -12/3/2021
 	1h - Merge conflicten oplossen
 	40m - Wekelijkse meeting
-	4h25m Navigatie verder uitwerken / Settings sidebar schetsen / 	      Settings Layout maken.
+	4h25m Navigatie verder uitwerken / Settings sidebar schetsen / Settings Layout maken.
 Week 5 - 19/3/2021  (Hackathon Week)
 	48m - Css fixing
 	1h - Pages -> Templates
+Week 6 - 21/3/2021
+	3h - Research custom login Firebase
+	1h - Kleine details op paginas aanpassen.
+	 22/3/2021
+	4.5h Start layout User page / Settings menu / Friendlist Page
+Week 7 - 1/4/2021
+	5h - Begin implementeren Firestore
+	2/4/2021 
+	3h - Afwerken validatie username wijziging
+	3/4/2021
+	1h - uit tekenen Friedlist design 
+Vakantie - 3/4/2021 - 17/4/2021
+	6/4/2021
+	13h - FriendList/Messages Layout, Error Fixing, Avatar firestore integratie
+	7/4/2021
+	3h - Layout User stats
+	
+	
 	
 
 
