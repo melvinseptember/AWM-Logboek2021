@@ -33,8 +33,16 @@ Vakantie - 3/4/2021 - 17/4/2021
 	13h - FriendList/Messages Layout, Error Fixing, Avatar firestore integratie
 	7/4/2021
 	3h - Layout User stats
-	
-	
+	9/4/2021-
+	4h - Firebase research/Framework7 research
+	11/4/2021
+	7h - Werken aan Friendlist/Inladen van de users.
+Week 8 19/4/2021
+	5h Friendlist add button fix, begin RequestList
+	20/4/2021
+	2h - Request validatie fix
+	5h - Friendlist Finish 
+	20m - Validatie RequestList
 	
 
 
