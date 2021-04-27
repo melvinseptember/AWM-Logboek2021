@@ -43,7 +43,10 @@ Week 8 19/4/2021
 	2h - Request validatie fix
 	5h - Friendlist Finish 
 	20m - Validatie RequestList
-	
+Week 9 26/4/2021
+	3h - fix zoeken voor on promise error gsm.
+	27/4/2021
+	5h - Begin Chats
 
 
 
