@@ -47,6 +47,15 @@ Week 9 26/4/2021
 	3h - fix zoeken voor on promise error gsm.
 	27/4/2021
 	5h - Begin Chats
+--------------------------
+10/5/2021
+	3h Registreren en aanmaken van Doodler op Google Play Console
+11/5/2021
+	4h - Afwerken Doodler op Google Play Console
+12/5/2021
+	1h - Doodler Open Beta Release
+21/5/2021
+	8h - Documentatie Doodler
 
 
 
